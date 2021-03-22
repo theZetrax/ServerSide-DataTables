@@ -1,0 +1,9 @@
+Todo
+---
+
+1. Ajax Request For Fetching data from api server
+    - Fetch Request
+    - Search Request
+    - Order Request
+2. Style for clickable dropdown
+3. On click delete page and edit page
